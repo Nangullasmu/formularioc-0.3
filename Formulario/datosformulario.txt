@@ -1,0 +1,38 @@
+
+===============================
+Nombres: Nombre:
+Apellidos: Apellido:
+Teléfono: Telefono:
+Estatura: Estatura:
+Edad: Edad:
+Género: Hombre
+===============================
+Nombre: jose
+ Apellido: perez
+ Telefono: 0123456789 
+ Estatura: 1.45 
+ Edad: 22 
+ Genero: Hombre
+===============================
+Nombre: jose
+ Apellido: perez
+ Telefono: 1234567890 
+ Estatura: 1.45 
+ Edad: 22 
+ Genero: Hombre
+
+
+
+Nombre: jose
+ Apellido: perez
+ Telefono: 1000215809 
+ Estatura: 1.45 
+ Edad: 22 
+ Genero: Hombre
+
+Nombre: jose
+ Apellido: perez
+ Telefono: 1000215809 
+ Estatura: 1.45 
+ Edad: 22 
+ Genero: Hombre
